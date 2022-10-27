@@ -1,0 +1,10 @@
+git log
+git log --n
+git log --oneline
+git log --oneline -n
+git log --author=author name
+git log --author=author name -n
+git log --author=author name --oneline -n
+git log --since=yy-mm-dd
+git log --until=yy-mm-dd
+git log --since=yy-mm-dd --until=yy-mm-dd
